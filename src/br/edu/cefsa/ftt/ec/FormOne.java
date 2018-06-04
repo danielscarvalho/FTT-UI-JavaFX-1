@@ -27,7 +27,7 @@ import javafx.stage.Stage;
 
 //Fonte: https://docs.oracle.com/javase/8/javafx/get-started-tutorial/form.htm#BABDDGEE
 
-public class FromOne extends Application {
+public class FormOne extends Application {
 
 	@Override
 	public void start(Stage primaryStage) {
